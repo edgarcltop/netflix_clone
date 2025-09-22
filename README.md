@@ -20,4 +20,3 @@ Features of note:
 
 - Netlify Identity Authentication
 - `useFauna` React Hook
-- custom hooks from [@swyx/hooks](https://github.com/sw-yx/hooks)
