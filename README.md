@@ -2,9 +2,9 @@
 
 Netlify Identity + FaunaDB app with most recent versions of FaunaDB client and React.
 
-- Video: https://youtu.be/7OB_IjTTcwg
+
 - Demo: https://cocky-almeida-4df361.netlify.com/
-- Github: https://github.com/sw-yx/netlify-fauna-todo
+
 
 One click deploy:
 
