@@ -6,9 +6,6 @@ Netlify Identity + FaunaDB app with most recent versions of FaunaDB client and R
 - Demo: https://cocky-almeida-4df361.netlify.com/
 
 
-One click deploy:
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sw-yx/netlify-fauna-todo&stack=fauna) (and then make sure to turn on Netlify Identity since it doesnt do that yet)
 
 Manual deploy/Local development
 
