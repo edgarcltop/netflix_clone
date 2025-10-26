@@ -3,10 +3,6 @@
 Netlify Identity + FaunaDB app with most recent versions of FaunaDB client and React.
 
 
-- Demo: https://cocky-almeida-4df361.netlify.com/
-
-
-
 Manual deploy/Local development
 
 1. Deploy to Netlify and run `netlify addons:create fauna`
